@@ -140,8 +140,8 @@ M = []	# Energia Mecânica
 posicaoinitial() 
 velocidadeinicial()
 
-#plt.scatter(x,y)
-#plt.axis([-caixa*0.5, caixa*0.5, -caixa*0.5,caixa*0.5])
+# plt.scatter(x,y)
+# plt.axis([-caixa*0.5, caixa*0.5, -caixa*0.5,caixa*0.5])
 
 # arquivo posi.dat
 blender.write(str(npart) + "\n")
