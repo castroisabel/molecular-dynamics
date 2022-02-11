@@ -183,8 +183,6 @@ for t in range(1,tmax+1,1):
 for i in range(0,npart,1):
 	posicaof.write(str(x[i]) + "      " + str(y[i]) + "\n")
 
-	
-
 
 
 plt.plot(time,P,'-r',time,T,'-b',time,M,'-m')
