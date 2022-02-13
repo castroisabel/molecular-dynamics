@@ -3,4 +3,4 @@
  
  *Keywords*: Molecular dynamics. Two-dimensional systems. Lennard-Jones potential.
  
- https://repositorio.ufc.br/bitstream/riufc/57701/1/2021_tcc_isacordeiro.pdf
+*Undergraduate thesis in portuguese*: https://repositorio.ufc.br/bitstream/riufc/57701/1/2021_tcc_isacordeiro.pdf
